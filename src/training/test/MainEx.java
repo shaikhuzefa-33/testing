@@ -6,6 +6,8 @@ public class MainEx {
 		A obj=new A();
 		
 		obj.method();
+		
+		System.out.println(" Huzefa ");
 	}
 
 }
